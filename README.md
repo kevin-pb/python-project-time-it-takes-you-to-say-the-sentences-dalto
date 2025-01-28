@@ -1,6 +1,6 @@
-# Course duration comparison
+# Time of say a phrase
 
-a
+This project calculates how long it takes you to say a sentence and compares it with how long it would take SoyDalto to say it
 
 # Run & configure
 
